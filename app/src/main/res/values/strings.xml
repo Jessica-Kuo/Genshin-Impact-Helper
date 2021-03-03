@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Xiao_Calculator</string>
+    <string name="primos_in_possession">What you have</string>
+    <string name="primogems">Primogems</string>
+    <string name="fates">Fates</string>
+    <string name="want">What you want</string>
+    <string name="days">Days to get them</string>
+    <string name="calulate">Calculate</string>
+    <string name="websiteText">Official Mihoyo Website</string>
+    <string name="wikiText">Genshin Impact Wiki</string>
+    <string name="results_displayed_here">Results displayed here</string>
+</resources>

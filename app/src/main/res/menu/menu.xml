@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/website"
+        android:title="@string/websiteText"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/wiki"
+        android:title="@string/wikiText"
+        android:orderInCategory="110"
+        />
+
+</menu>
